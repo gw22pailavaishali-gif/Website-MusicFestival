@@ -1,0 +1,40 @@
+body {
+  background-color: Black;
+  color: white;
+  font-size: 12;
+  font-family: tahoma;
+  text-align: left;
+}
+h1 {
+  color: green;
+  text-align: center;
+  font-family: Lucida Handwriting;
+  font-size: 40;
+  font-weight: bold;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-family: Lucida Handwriting;
+  font-size: 40;
+  font-weight: bold;
+}
+/* unvisited link */
+a:link {
+  color: LightSeaGreen;
+}
+
+/* visited link */
+a:visited {
+  color: magenta;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
